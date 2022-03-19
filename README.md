@@ -59,7 +59,4 @@ Password : 12345678
 
 http://djangoecommerce.pythonanywhere.com
 
-# HTML Template
-
-https://colorlib.com/etc/fashe/index.html
 
